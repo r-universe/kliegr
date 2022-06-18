@@ -1,0 +1,10 @@
+[
+  {
+    "package": "arc",
+    "oncran": true
+  },
+  {
+    "package": "qCBA",
+    "oncran": true
+  }
+]
